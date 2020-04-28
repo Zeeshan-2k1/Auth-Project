@@ -1,2 +1,0 @@
-# Auth-Project
-Authentication project 
